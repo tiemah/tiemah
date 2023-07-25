@@ -1,6 +1,5 @@
 
-  👋 Hi,I'm Doreen Tiema
-  
+  👋 Hi,I'm Doreen Tiema  
   🌱 I’m currently learning full stack web development
   
   👯 I’m looking to collaborate on open source web projects
